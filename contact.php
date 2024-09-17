@@ -1,7 +1,3 @@
-Ceci est "normalemen" un fichier php
-??
-<php
 
+Vla le fichier en php
 
-
-?/>
